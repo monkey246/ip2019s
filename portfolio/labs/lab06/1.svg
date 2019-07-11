@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="512" width="512">
+
+  <rect width="512" height="512" stroke="red" fill="white"/>
+
+  <path d="
+    M206 114
+    C
+    137 53 4 13 410 99 
+    402 212 357 236 272 21 
+    20 209 186 15 206 1z" fill="none" stroke="#000" stroke-width="1px"/>
+
+  <circle fill="Lavender" stroke="#f0f" cx="206" cy="114" r="32" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="4s" fill="freeze" repeatCount="10" />
+  </circle>
+ <circle fill="Lavender" stroke="#f0f" cx="126" cy="150" r="16" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="3s" fill="freeze" repeatCount="10" />
+  </circle>
+
+ <circle fill="Lavender" stroke="#f0f" cx="236" cy="160" r="16" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="2s" fill="freeze" repeatCount="10" />
+  </circle>
+
+ <circle fill="Lavender" stroke="#f0f" cx="300" cy="14" r="16" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="5s" fill="freeze" repeatCount="10" />
+  </circle>
+ <circle fill="Lavender" stroke="#f0f" cx="400" cy="140" r="20" opacity="0.2">
+    <animate attributeName="opacity" to="1" begin="0s" dur="4s" fill="freeze" repeatCount="10" />
+  </circle>
+
+
+
+
+
+
+</svg>
